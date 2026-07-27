@@ -3,7 +3,7 @@ Desafio de projeto - DIO
 
 Meu terceiro projeto em JavaScript, onde coloco em prática os conhecimentos adquiridos durante o curso.
 
-📚 ## Conceitos utilizados 
+## 📚 Conceitos utilizados 
 
 - Variáveis
 - Operadores
@@ -12,7 +12,7 @@ Meu terceiro projeto em JavaScript, onde coloco em prática os conhecimentos adq
 - Funções
 - Classes e Objetos
   
-🎯 ## Objetivo do projeto
+## 🎯 Objetivo do projeto
 
 Criar uma classe genérica que represente um herói de uma aventura, contendo as propriedades:
 
@@ -22,23 +22,23 @@ Criar uma classe genérica que represente um herói de uma aventura, contendo as
 
 Além disso, a classe possui um método chamado atacar(), que exibe uma mensagem diferente de acordo com o tipo do herói.
 
-💻 ## Exemplo de saída
+## 💻 Exemplo de saída
 
-O mago atacou usando magia
-O guerreiro atacou usando espada
-O monge atacou usando artes marciais
-O ninja atacou usando shuriken
+- O mago atacou usando magia
+- O guerreiro atacou usando espada
+- O monge atacou usando artes marciais
+- O ninja atacou usando shuriken
 
-🚀 ## Como executar o projeto
+## 🚀 Como executar o projeto
 
-Instale o Node.js
-Clone este repositório
-Execute o arquivo JavaScript no terminal:
-node index.js
+- Instale o Node.js
+- Clone este repositório
+- Execute o arquivo JavaScript no terminal:
+- node index.js
 
-🛠️ ## Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
-JavaScript
-Node.js
+- JavaScript
+- Node.js
 
 Projeto desenvolvido como parte da formação da DIO (Digital Innovation One).
